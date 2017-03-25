@@ -1,6 +1,6 @@
 # platzigram
 
-Pictures responsive website - Frontend
+Nodejs project - Frontend
 
 Skills applied: https://platzi.com/cursos/javascript
 
