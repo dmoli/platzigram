@@ -1,6 +1,6 @@
 # platzigram
 
-Pictures responsive website
+Pictures responsive website - Frontend
 
 Skills applied: https://platzi.com/cursos/javascript
 
